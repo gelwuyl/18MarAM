@@ -1,7 +1,3 @@
-pip install flask
-
-pip install google-generativeai
-
 from flask import Flask, request, render_template
 
 import google.generativeai as palm
